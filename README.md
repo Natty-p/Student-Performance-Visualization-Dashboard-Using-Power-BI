@@ -4,14 +4,17 @@
 This project analyzes student performance to uncover insights into factors influencing academic success. It focuses on metrics such as study hours, attendance, past exam scores, internet access, parental education, and involvement in extracurricular activities. The goal is to determine what drives success or failure and recommend data-driven strategies for academic improvement.
 
 ##  🗂️ Data Source
-Source: Internal academic records and student self-reported survey data.
-Size: Medium-sized dataset (few hundred to thousand records).
+Source: Internal academic records and student self reported survey data.
+<a href="https://github.com/Natty-p/Student-Performance-Visualization-Dashboard-Using-Power-BI/blob/main/student_performance_dataset.csv">Student Performance CSV File</a>
 
 ##  📊 Tool: Power BI
 Power BI was used to:
 Clean and transform data (using Power Query).
 Create interactive visualizations and dashboards.
 Generate drill-down capabilities for detailed analysis.
+
+<a href="https://github.com/Natty-p/Student-Performance-Visualization-Dashboard-Using-Power-BI/blob/main/Student%20Performance%20DB.pbi">Power BI Dashboard</a>
+
 
 ##  ❓ KPI Questions Explored
 What is the average performance level of students?
@@ -22,6 +25,9 @@ Are there gender differences in academic outcomes?
 Does internet access at home affect student outcomes?
 What role does parental education play in student success?
 How do extracurricular activities influence academic scores?
+
+##  Dashboard
+  <img width="1407" height="820" alt="DB Screenshot" src="https://github.com/user-attachments/assets/008e7902-c67b-4b46-987c-9a371d0627b0" />
 
 
 ##  🔍 Findings
